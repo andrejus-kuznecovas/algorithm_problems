@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BubbleSort1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BubbleSort1.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/BubbleSort2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/CountCharacters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/LeftRotation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MergeSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/MergeSort.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ReverseString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SubarraySum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Task1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Task2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Task2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/Sipas-Core/sipas-data-persistance/sipas-model/src/main/java/com/sipasinsurance/core/model/component/cover/group/CoverGroupSystemPropertiesComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/Sipas-Core/sipas-data-persistance/sipas-repositories/src/main/resources/changelog/db.changelog-master.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/Sipas-Core/sipas-data-persistance/sipas-repositories/src/main/resources/liquibase.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/Sipas-Core/sipas-documents/src/main/java/com/sipasinsurance/core/documents/product/sales/CoverGroupSystemProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/SipasFolder/bis-api-client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/sipas/SipasFolder/bis-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
